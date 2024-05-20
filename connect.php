@@ -2,7 +2,7 @@
 
 try{
     $server_name = "localhost";
-    $db_name = "games";
+    $db_name = "jeux";
     $user_name = "root";
     $password = "root";
     $db = new PDO("mysql:host=$server_name;dbname=$db_name;charset=utf8mb4", "$user_name", "$password");
