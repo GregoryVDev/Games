@@ -16,6 +16,7 @@
         <th>Release date</th>
         <th>Platform</th>
         <th>Multiplayer</th>
+        <th>Type</th>
     </thead>
 </table>
 
